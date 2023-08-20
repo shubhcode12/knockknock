@@ -1,10 +1,10 @@
 ---
 banner:
-  title: "Andromeda is the most intuitive </br> way to prototype Designs"
+  title: "Connect, Communicate, and Thrive: Introducing Knock Knock"
   image: /images/banner-app.png
   link:
-    label: Get Premium Version
-    href: "#"
+    label: Download Now
+    href: "https://play.google.com/store/apps/details?id=com.binarybite.knockknock"
 
 ##brands
 brands:
@@ -24,24 +24,34 @@ features:
   title: Elements To </br> Get You Started
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas </br> Werat viverra id et aliquet. vulputate egestas sollicitudin.
   list:
-    - icon: 'lock' # feather icon: https://feathericons.com/
-      title: Updated Security
+    - icon: 'calendar' # feather icon: https://feathericons.com/
+      title: 📅 Events Galore - Let's Celebrate Together!
+      content: Never miss a beat with our community's exciting events! From block parties to book clubs, there's something for everyone. Stay in the loop and create memories that last a lifetime.
+    - icon: 'user-plus'
+      title: 🏆 Community Champions - Share Your Wins!
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus
-    - icon: 'wind'
-      title: Magnetic Turning
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus
-    - icon: 'shield'
-      title: Secured & up-to-date
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus
-    - icon: 'link'
-      title: Instant Link Sharing
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus
-    - icon: 'lock'
-      title: Updated Security
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus
-    - icon: 'wind'
-      title: Magnetic Turning
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus
+    - icon: 'bell'
+      title: 📢 Notice Board - Stay Informed, Stay Connected!
+      content: Get vital society updates, maintenance reminders, and event announcements at your fingertips. Be in the know, and be an active part of your community.
+    - icon: 'sun'
+      title: 🎂 Birthdays Bonanza - Make Every Birthday Special!
+      content: Blow out the candles, send virtual hugs, and show love to your neighbors on their special day. Join the ultimate birthday bash!
+    - icon: 'share-2'
+      title: 📣 Share & Care - Express Your Thoughts!
+      content: Post, share, and spread positivity within our caring community. Connect with neighbors who share your passions and interests.
+    - icon: 'flag'
+      title: 🛠️ Helping Hands - Supportive Community at Your Service!
+      content: Whether you need a handyman or a baking buddy, find assistance within our friendly network. We're here to lend a hand whenever you need it!
+    - icon: 'gift'
+      title: 🤝 Know Your Neighbors - Unveiling Hidden Treasures!
+      content: Discover the wonderful personalities and stories behind each door. Forge authentic friendships and create a close-knit neighborhood.
+    - icon: 'mail'
+      title: 💬 Complaints Corner - Speak Up, We're Listening!
+      content: Raise concerns, and we'll address them promptly. Together, we'll keep our community thriving and harmonious.
+    - icon: 'share-2'
+      title: 🚀 Nudge & Connect - Keeping the Fun Rolling!
+      content: Send playful nudges to neighbors, share emojis, and keep the fun alive in our app. Create a space where laughter never ends!
+
 
 #intro
 intro:
@@ -71,37 +81,18 @@ testimonial:
   subtitle: Don’t Take Our Word For It
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas </br> Werat viverra id et aliquet. vulputate egestas sollicitudin.
   list:
-    - author: David Cameron
+    - author: Shubham Chopade
       avatar: /images/user-img/01.jpg
-      profession: CEO, Nexuspay
-      content: Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor
-    - author: David Cameron
+      profession: Residant, Tara Residancy
+      content: I used to hesitate before attending society events due to lack of information. KnockKnock changed that entirely. Now, I'm always in the loop, whether it's a community barbecue or a fitness workshop. It's not just an app; it's the gateway to a more engaged, fulfilling community life.
+    - author: Nitish Gupta
       avatar: /images/user-img/02.jpg
-      profession: CEO, Nexuspay
-      content: Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor
-    - author: David Cameron
+      profession: Residant, Nexa Society
+      content: From a treasurer's perspective, managing society finances requires precision. KnockKnock has made this task significantly easier with its intuitive tools. Budget tracking, expense sharing, and financial transparency have all become hassle-free. This app is a lifeline for anyone involved in society administration.
+    - author: Sourabh Dawari
       avatar: /images/user-img/03.jpg
-      profession: CEO, Nexuspay
-      content: Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor
-    - author: David Cameron
-      avatar: /images/user-img/04.png
-      profession: CEO, Nexuspay
-      content: Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor
-    - author: David Cameron
-      avatar: /images/user-img/05.jpg
-      profession: CEO, Nexuspay
-      content: Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor
-    - author: David Cameron
-      avatar: /images/user-img/06.jpg
-      profession: CEO, Nexuspay
-      content: Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor
-    - author: David Cameron
-      avatar: /images/user-img/07.jpg
-      profession: CEO, Nexuspay
-      content: Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor
-    - author: David Cameron
-      avatar: /images/user-img/08.jpg
-      profession: CEO, Nexuspay
-      content: Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor
+      profession: Owner, Megalink Society
+      content: Being part of KnockKnock feels like being part of an extended family. The 'Know Your Neighbours' feature has helped me forge meaningful connections with fellow residents who share my interests. It's refreshing to see an app that not only simplifies communication but also nurtures a sense of belonging.
+    
 
 ---

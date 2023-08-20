@@ -1,12 +1,12 @@
 {
   "site": {
-    "title": "Andromeda Light Nextjs",
+    "title": "Knock Knock",
     "base_url": "/",
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.svg",
     "logo_width": "240",
     "logo_height": "34",
-    "logo_text": "Andromeda"
+    "logo_text": "Knock Knock"
   },
 
   "settings": {
@@ -18,35 +18,35 @@
   "params": {
     "tag_manager_id": "",
     "contact_form_action": "#",
-    "footer_content": "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat.",
-    "copyright": "Designed & Developed By [Themefisher](https:www.themefisher.com)"
+    "footer_content": "Transforming Communities through Seamless Interaction.",
+    "copyright": "Designed & Developed By BinaryBites"
   },
 
   "contact_info": {
-    "phone": "+887887998",
-    "email": "info@andromeda.io",
-    "location": "2118 Thornridge Cir. Syracuse, Connecticut 35624"
+    "phone": "+9619003943",
+    "email": "contact@knockknock.com",
+    "location": "KnockKoock Headquarters, Mumbai, India"
   },
 
   "nav_button": {
     "enable": true,
     "label": "Download Now",
-    "link": "https://themefisher.com/products/andromeda-light-nextjs"
+    "link": "https://play.google.com/store/apps/details?id=com.binarybite.knockknock"
   },
 
   "metadata": {
-    "meta_author": "Themefisher",
+    "meta_author": "BinaryBite",
     "meta_image": "/images/og-image.png",
-    "meta_description": "Andromeda-light Nextjs Blog Template"
+    "meta_description": "Welcome to KnockKnock, the revolutionary platform that redefines community living. With a commitment to fostering vibrant, interconnected societies, our app is designed to bring residents closer, ensuring a sense of unity and harmony. "
   },
 
   "call_to_action": {
     "enable": true,
-    "title": "Get Andromeda Now",
-    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas </br> Werat viverra id et aliquet. vulputate egestas sollicitudin.",
+    "title": "Get KnockKnock Now",
+    "content": "  Join us today and embark on a journey where unity, interaction, and a sense of belonging take center stage. </br>Experience community living like never before with",
     "button": {
-      "label": "Download The Theme",
-      "link": "https://themefisher.com/products/andromeda-light-nextjs"
+      "label": "Download The App",
+      "link": ""
     }
   },
 
