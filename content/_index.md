@@ -64,15 +64,45 @@ intro:
 #speciality
 speciality:
   primary:
-    title: You Will Not Miss Your All Misunderstandings
-    subtitle: PRIMARY SPECIALITY
-    description: Protect your design vision and leave nothing up to interpretation with interaction recipes. Quickly share and access all your team members interactions by using libraries, ensuring consistency throughout the.
-    image: /images/features-01.png
+    title: Raise Your Voice, Find Solutions
+    subtitle: Admin Section
+    description: Our Complaint Management feature puts the power of change in your hands. From leaky faucets to noisy neighbors, report issues effortlessly and track their resolution progress. Your concerns matter, and with this feature, you're just a few taps away from making your living experience better.
+    image: /images/features/ss1.jpeg
   secondary:
-    title: Say Hello To No-Code The Advance Creation
+    title: Society Administration Made Simple
     subtitle: SECONDARY SPECIALITY
     description: From the simplest of interactions to those that use Excel-gradeing formulas, ProtoPie can handle them all. Make mind-blowing of New interactions everyday without ever having to write any new code.
-    image: /images/features-02.png
+    image: /images/features/ss2.jpeg
+  third:
+    title: Stay Informed, Stay Connected  
+    subtitle: Know Your Neighbors
+    description: Discover a hub of updates and interactions with Notices and Community Posts. From important announcements to neighborly discussions, this feature keeps you in the loop. Share insights, join conversations, and be an active part of your community's vibrant tapestry.
+    image: /images/features/ss3.jpeg
+  forth:
+    title: Unveil the Bonds Around You
+    subtitle: Community Tips
+    description: Connecting goes beyond just knowing names. Dive into the lives of your fellow residents with the Know Your Neighbors feature. Learn about shared interests, hobbies, and stories, fostering connections that transform your neighborhood into a warm and welcoming community.
+    image: /images/features/ss4.jpeg
+  fifth:  
+    title: Elevate Your Living Experience
+    subtitle: User's Profile
+    description: From green living to safety tips, our Community Tips feature offers valuable insights to enhance your everyday life. Embrace sustainable practices, foster neighborly camaraderie, and navigate communal living with ease, all while enriching your well-being.
+    image: /images/features/ss5.jpeg
+  sixth:
+    title: Personalize, Connect, Thrive
+    subtitle: Past Visitor Entries
+    description: Your profile is your digital identity within the community. Customize it to reflect your interests and personality. It's not just about the information; it's about building bridges with your neighbors. Strengthen relationships, attend events, and make your mark within the community.
+    image: /images/features/ss6.jpeg
+  seven:
+    title: Tracing the Footsteps of Security
+    subtitle: Security Guard Account Management
+    description: With Past Visitor Entries, maintaining security has never been simpler. Keep track of who has visited and when, ensuring your community's safety. Whether you're a resident or a secretary, this feature provides a digital record that adds an extra layer of protection.
+    image: /images/features/ss7.jpeg
+  eight:
+    title: Guarding with Precision and Ease
+    subtitle: Security Guard Accounts
+    description: Entrust your community's security to our Security Guard Account Management. Efficiently manage guard accounts, shifts, and access permissions. From visitor registration to patrol schedules, this feature empowers secretaries to ensure a safe and secure living environment.
+    image: /images/features/ss8.jpeg      
 
 
 #Testimonial
