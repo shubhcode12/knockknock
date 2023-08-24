@@ -123,6 +123,20 @@ testimonial:
       avatar: /images/user-img/03.jpg
       profession: Owner, Megalink Society
       content: Being part of KnockKnock feels like being part of an extended family. The 'Know Your Neighbours' feature has helped me forge meaningful connections with fellow residents who share my interests. It's refreshing to see an app that not only simplifies communication but also nurtures a sense of belonging.
-    
+
+## members
+our_member:
+  subtitle: OUR MEMBERS
+  title: The People Behind
+  content: "At KnockKnock, we're dedicated to enhancing community living. 
+  Our diverse team unites unique talents to provide top-notch interactions and services."
+
+  list:
+    - name: Siddesh Parab
+      field: App Developer
+      image: /images/about/team/01.jpg
+    - name: Shubhankar Mahajan
+      field: Web Developer
+      image: /images/about/team/02.jpg
 
 ---

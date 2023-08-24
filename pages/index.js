@@ -13,7 +13,15 @@ import { TbQuote } from "react-icons/tb";
 import { Autoplay, Pagination } from "swiper";
 import { Swiper, SwiperSlide } from "swiper/react";
 
-const Home = ({ banner, brands, features, intro, speciality, testimonial }) => {
+const Home = ({
+  banner,
+  brands,
+  features,
+  intro,
+  speciality,
+  testimonial,
+  our_member,
+}) => {
   const paginationRef = useRef(null);
   const testimonialPaginationRef = useRef(null);
 
@@ -355,7 +363,7 @@ const Home = ({ banner, brands, features, intro, speciality, testimonial }) => {
               key={`speciality-${index}`}
               style={{ margin: "20px" }}
             >
-              <div className={`animate lg:col-6 lg:order-2 feature-image`}>
+              <div className={`animate feature-image lg:col-6 lg:order-2`}>
                 <ImageFallback
                   className="mx-auto rounded-lg"
                   src={item.image}
@@ -364,7 +372,7 @@ const Home = ({ banner, brands, features, intro, speciality, testimonial }) => {
                   alt="speciality image"
                 />
               </div>
-              <div className={`animate lg:col-5 lg:order-1 feature-content`}>
+              <div className={`animate feature-content lg:col-5 lg:order-1`}>
                 <p>{item.subtitle}</p>
                 {markdownify(item.title, "h2", "mt-4 section-title bar-left")}
                 {markdownify(item.description, "p", "mt-10")}
@@ -635,6 +643,37 @@ const Home = ({ banner, brands, features, intro, speciality, testimonial }) => {
         </div>
       </section>
 
+      {/* our members */}
+      <div className="section container">
+        <div className="animate text-center">
+          <p>{our_member.subtitle}</p>
+          {markdownify(our_member.title, "h2", "section-title mt-4")}
+          {markdownify(our_member.content, "p", "mt-16")}
+        </div>
+        <div className="flex justify-center">
+          <div className="lg:col-10">
+            <div className="flex flex-wrap justify-center">
+              {our_member.list.map((member, index) => (
+                <div
+                  key={("member-", index)}
+                  className="animate mt-10 text-center md:w-1/2 lg:w-1/3"
+                >
+                  <ImageFallback
+                    className="mx-auto rounded-full shadow-[10px_10px_0] shadow-primary/10"
+                    src={member.image}
+                    width={245}
+                    height={245}
+                    alt={member.name}
+                  />
+                  <h4 className="mt-8">{member.name}</h4>
+                  <p className="mt-3">{member.field}</p>
+                </div>
+              ))}
+            </div>
+          </div>
+        </div>
+      </div>
+
       {/* Cta */}
       <Cta />
     </Base>
@@ -647,8 +686,15 @@ export default Home;
 export const getStaticProps = async () => {
   const homepage = await getListPage("content/_index.md");
   const { frontmatter } = homepage;
-  const { banner, brands, features, intro, speciality, testimonial } =
-    frontmatter;
+  const {
+    banner,
+    brands,
+    features,
+    intro,
+    speciality,
+    testimonial,
+    our_member,
+  } = frontmatter;
 
   return {
     props: {
@@ -658,6 +704,7 @@ export const getStaticProps = async () => {
       intro: intro,
       speciality: speciality,
       testimonial: testimonial,
+      our_member: our_member,
     },
   };
 };
