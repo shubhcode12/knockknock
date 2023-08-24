@@ -4,8 +4,8 @@
     "base_url": "/",
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.svg",
-    "logo_width": "240",
-    "logo_height": "34",
+    "logo_width": "300",
+    "logo_height": "50",
     "logo_text": "Knock Knock"
   },
 
@@ -17,14 +17,14 @@
 
   "params": {
     "tag_manager_id": "",
-    "contact_form_action": "#",
+    "contact_form_action": "mailto:binarybite28@gmail.com",
     "footer_content": "Transforming Communities through Seamless Interaction.",
     "copyright": "Designed & Developed By BinaryBites"
   },
 
   "contact_info": {
-    "phone": "+9619003943",
-    "email": "contact@knockknock.com",
+    "phone": "+919619003943",
+    "email": "binarybite28@gmail.com",
     "location": "KnockKoock Headquarters, Mumbai, India"
   },
 
@@ -43,7 +43,7 @@
   "call_to_action": {
     "enable": true,
     "title": "Get KnockKnock Now",
-    "content": "  Join us today and embark on a journey where unity, interaction, and a sense of belonging take center stage. </br>Experience community living like never before with",
+    "content": "Join us today and embark on a journey where unity, interaction, and a sense of belonging take center stage. </br>Experience community living like never before with",
     "button": {
       "label": "Download The App",
       "link": ""
@@ -52,7 +52,7 @@
 
   "disqus": {
     "enable": true,
-    "shortname": "themefisher-template",
+    "shortname": "knockknock",
     "settings": {}
   }
 }
