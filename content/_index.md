@@ -22,14 +22,14 @@ brands:
 features:
   sub_title: SPECIAL FEATURES
   title: Elements To </br> Get You Started
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas </br> Werat viverra id et aliquet. vulputate egestas sollicitudin.
+  description: Explore our special features that stand out in KnockKnock App.
   list:
     - icon: 'calendar' # feather icon: https://feathericons.com/
       title: 📅 Events Galore - Let's Celebrate Together!
       content: Never miss a beat with our community's exciting events! From block parties to book clubs, there's something for everyone. Stay in the loop and create memories that last a lifetime.
     - icon: 'user-plus'
       title: 🏆 Community Champions - Share Your Wins!
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus
+      content: Celebrate achievements, big or small, and receive applause from your supportive neighbors. We cheer each other on because together, we're unstoppable!
     - icon: 'bell'
       title: 📢 Notice Board - Stay Informed, Stay Connected!
       content: Get vital society updates, maintenance reminders, and event announcements at your fingertips. Be in the know, and be an active part of your community.
@@ -55,11 +55,11 @@ features:
 
 #intro
 intro:
-  title: Built Exclusively For You
-  subtitle: SHORT INTRO VIDEO
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas </br> Werat viverra id et aliquet. vulputate egestas sollicitudin.
-  thumbnail: "/images/video-popup.jpg"
-  video_id: dyZcRRWiuuw
+  title: Experience KnockKnock
+  subtitle: Watch Our App in Action
+  description: Explore the exceptional features of the KnockKnock app that revolutionize community living. 
+  thumbnail: "/images/video-popup.jpeg"
+  video_id: 6CzR7TSgM3U
 
 #speciality
 speciality:
@@ -107,9 +107,9 @@ speciality:
 
 #Testimonial
 testimonial:
-  title: OUR TESTIMONIALS
-  subtitle: Don’t Take Our Word For It
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas </br> Werat viverra id et aliquet. vulputate egestas sollicitudin.
+  title: What Our Users Say
+  subtitle: Real Stories from Real Residents
+  description: Hear from residents who have transformed their community living experience with KnockKnock. 
   list:
     - author: Shubham Chopade
       avatar: /images/user-img/01.jpg
