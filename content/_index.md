@@ -133,10 +133,10 @@ our_member:
 
   list:
     - name: Siddesh Parab
-      field: App Developer
+      field: 
       image: /images/about/team/01.jpg
     - name: Shubhankar Mahajan
-      field: Web Developer
+      field:
       image: /images/about/team/02.jpg
 
 ---
