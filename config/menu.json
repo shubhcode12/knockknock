@@ -17,6 +17,10 @@
       "url": "/privacy"
     },
     {
+      "name": "Data Control",
+      "url": "/datacontrol"
+    },
+    {
       "name": "Contact",
       "url": "/contact"
     }
