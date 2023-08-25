@@ -2,6 +2,7 @@ import NotFound from "@layouts/404";
 import About from "@layouts/About";
 import Base from "@layouts/Baseof";
 import Contact from "@layouts/Contact";
+import Datacontrol from "@layouts/Datacontrol";
 import Default from "@layouts/Default";
 import Privacy from "@layouts/Privacy"
 import { getRegularPage, getSinglePage } from "@lib/contentParser";
@@ -29,7 +30,9 @@ const RegularPages = ({ data }) => {
         <Contact data={data} />
       ) : layout ==="privacy" ? (
         <Privacy data={data}/>
-      ) : (
+      ) : layout === "datacontrol" ?(
+        <Datacontrol/>
+      ): (
         <Default data={data} />
       )}
     </Base>
