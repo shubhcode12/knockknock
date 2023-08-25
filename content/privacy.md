@@ -4,38 +4,66 @@ description: "this is meta description"
 draft: false
 ---
 
-#### 1. Definitions
+### Privacy Policy
 
-We collect certain identifying personal data when you sign up to our Service such as your name, email address, PayPal address (if different from email address), and telephone number. The personal data we collect from you is disclosed only in accordance with our Terms of Service and/or this Privacy Policy.Conclude collects Slack account and access information from Users for the purposes of connecting to the Slack API and to authenticate access to information on the Conclude website. Whenever you visit our Site, we may collect non-identifying information from you, such as referring URL, browser, operating system, cookie information, and Internet Service Provider. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, this information alone cannot usually be used to identify you.The term “personal data” does not include any anonymized and aggregated data made on the basis of personal data, which are wholly owned by Conclude.
+Last Updated: 24th August 2023
 
-#### 2. General Terms
+Welcome to KnockKnock ("we," "our," or "us"). We are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, and disclose your information when you use our mobile application and services ("App"). By using our App, you agree to the practices described in this Privacy Policy.
 
-##### Service Provided AS IS
+1. Information We Collect
 
-The Service is provided for free during this pilot project, and is provided “as is” with no warranty. Conclude will provide User support for the Service, however; Conclude is not committed to any level of service or availability of the Service. A further description of the Service and our user support is available at the Site.
+We may collect various types of information when you use our App:
 
-##### Interoperation with Slack
+1.1 Personal Information:
 
-The Service interoperates with Slack.com, and depends on the continuing availability and access to Slack. If for any reason Conclude cannot access or use Slack (including without limitation, change in terms or increase in fees charged by Slack), Conclude may not be able to provide all of the functions of its Service. No refund or credit, if applicable, will be provided for temporary unavailability of Slack (for example, maintenance windows).
+We may collect information that you provide directly to us when you register, create an account, or use certain features of the App. This may include your name, email address, phone number, profile picture, and other details you choose to provide.
 
-##### Company Liability
+1.2 Usage and Device Information:
 
-If you enter into this agreement on behalf of a company, you hereby agree that the company is responsible under this Agreement for all actions and omissions conducted by its designated users of the Service.
+We collect information about your interactions with the App, such as the features you use, the pages you visit, and the actions you take. We also collect device-specific information like your device type, operating system version, unique device identifiers, and mobile network information.
 
-#### 3. Rules of Use
+1.3 Location Information:
 
-1. must keep passwords secure and confidential;
-2. are solely responsible for User Data and all activity in their account while using the Service;
-3. must use commercially reasonable efforts to prevent unauthorized access to their account, and notify Conclude promptly of any such unauthorized access; and
-4. may use the Service only in accordance with Conclude’s online user guide and all applicable laws and regulations.
+With your consent, we may collect and process information about your location using various technologies, such as GPS, Wi-Fi, and cellular networks. This information is used to provide location-based services and improve your App experience.
 
-###### You must not
+1.4 Communication Information:
 
-- Enhance or improve User experience, our Site, or our Service.
-- Process transactions.
-- Send emails about our Site or respond to inquiries.
-- As this Privacy Policy and our Terms of Service.
+When you communicate with us, we may collect information about your communication preferences and any information you provide in your messages or correspondence with us.
 
-##### 5. Intellectual Property Rights
+2. How We Use Your Information
 
-Your information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you choose to provide information to us, Conclude transfers Personal Information to Google Cloud Platform and processes it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+We use the information we collect for various purposes, including:
+
+Providing, maintaining, and improving the App's functionality and features.
+Personalizing your experience and customizing content based on your preferences.
+Sending you updates, notifications, and important information.
+Analyzing usage patterns to optimize the App's performance and enhance user experience.
+Responding to your inquiries, feedback, and requests for assistance.
+Enforcing our terms of use and protecting our rights, property, and safety.
+3. Information Sharing and Disclosure
+
+We may share your information with third parties under the following circumstances:
+
+With your consent: We may share your information with third parties when you give us explicit consent to do so.
+Service providers: We may engage third-party service providers to help us operate, maintain, and improve the App. These providers have access to your information to perform services on our behalf.
+Legal requirements: We may disclose your information if required by law, court order, or government authority.
+4. Your Choices
+
+You have several choices regarding the information you provide and how it's used:
+
+You can control the information you provide during registration and in your account settings.
+You can disable location services or adjust location permissions in your device settings.
+You can unsubscribe from promotional communications by following the instructions in the communication or by contacting us directly.
+5. Data Security
+
+We take reasonable measures to protect your information from unauthorized access, disclosure, alteration, or destruction. However, no method of data transmission over the internet or electronic storage is entirely secure, and we cannot guarantee its absolute security.
+
+6. Updates to Privacy Policy
+
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the updated policy in the App and updating the "Last Updated" date.
+
+7. Contact Us
+
+If you have any questions, concerns, or requests related to this Privacy Policy, please contact us at binarybite28@gmail.com.
+
+By using the App, you acknowledge that you have read, understood, and agreed to this Privacy Policy.
