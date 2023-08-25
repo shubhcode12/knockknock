@@ -5,10 +5,6 @@
       "url": "/"
     },
     {
-      "name": "About",
-      "url": "/about"
-    },
-    {
       "name": "Terms",
       "url": "/terms-policy"
     },
@@ -30,10 +26,7 @@
       "name": "Home",
       "url": "/"
     },
-    {
-      "name": "About",
-      "url": "/about"
-    },
+   
     {
       "name": "Contact",
       "url": "/contact"
@@ -41,6 +34,14 @@
     {
       "name": "Terms & Conditions",
       "url": "/terms-policy"
+    },
+    {
+      "name": "Privacy",
+      "url": "/privacy"
+    },
+    {
+      "name": "Data Control",
+      "url": "/datacontrol"
     }
   ]
 }
